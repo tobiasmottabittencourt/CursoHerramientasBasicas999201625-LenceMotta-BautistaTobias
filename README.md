@@ -17,8 +17,8 @@ Se utilizó el dataset **Titanic**, compuesto por información demográfica, soc
 
 * [CSV fuente del proyecto](./titanic.csv)
 * [Notebook de análisis](./TITANIC_TP.ipynb)
-* [Notebook en Nbviewer](https://nbviewer.org/github/USUARIO/REPOSITORIO/blob/main/TITANIC_TP.ipynb) *(reemplazar con el repositorio correspondiente)*
-* **Power BI:** `[Agregar enlace al archivo .pbix o a las capturas del dashboard]`
+* [Notebook en Nbviewer](https://nbviewer.org/github/USUARIO/REPOSITORIO/blob/main/TITANIC_TP.ipynb)
+* Power BI: (https://github.com/tobiasmottabittencourt/CursoHerramientasBasicas999201625-LenceMotta-BautistaTobias/blob/main/Dashboard/Graficos%20y%20KPI%20Titanic.pbix)
 
 ## Pasos realizados
 
