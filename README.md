@@ -10,7 +10,7 @@
 
 El objetivo de este proyecto es analizar los factores asociados a la supervivencia de los pasajeros del Titanic mediante técnicas de preparación, limpieza y análisis exploratorio de datos (EDA). Se busca responder tres preguntas principales: si existen diferencias en la tasa de supervivencia según la clase del pasajero; si la edad se relaciona con la probabilidad de supervivencia; y si viajar solo o acompañado, junto con el nivel de tarifa, presenta diferencias en dicha probabilidad.
 
-## Dataset
+## Dataset y Enlaces Funcionales
 
 Se utilizó el dataset **Titanic**, compuesto por información demográfica, socioeconómica y de viaje de los pasajeros. El archivo utilizado contiene **891 registros y 15 variables**. La estructura corresponde al dataset Titanic disponible en Seaborn.
 **Fuente:** [Seaborn – Titanic Dataset](https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv)
