@@ -16,8 +16,7 @@ Se utilizó el dataset **Titanic**, compuesto por información demográfica, soc
 **Fuente:** [Seaborn – Titanic Dataset](https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv)
 
 * [CSV fuente del proyecto](./titanic.csv)
-* [Notebook de análisis](./TITANIC_TP.ipynb)
-* [Notebook en Nbviewer](https://nbviewer.org/github/USUARIO/REPOSITORIO/blob/main/TITANIC_TP.ipynb)
+* Notebook: (https://github.com/tobiasmottabittencourt/CursoHerramientasBasicas999201625-LenceMotta-BautistaTobias/blob/main/Notebooks/TITANIC_TP.ipynb)
 * Power BI: (https://github.com/tobiasmottabittencourt/CursoHerramientasBasicas999201625-LenceMotta-BautistaTobias/blob/main/Dashboard/Graficos%20y%20KPI%20Titanic.pbix)
 
 ## Pasos realizados
