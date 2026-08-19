@@ -15,7 +15,7 @@ El objetivo de este proyecto es analizar los factores asociados a la supervivenc
 Se utilizó el dataset **Titanic**, compuesto por información demográfica, socioeconómica y de viaje de los pasajeros. El archivo utilizado contiene **891 registros y 15 variables**. La estructura corresponde al dataset Titanic disponible en Seaborn.
 **Fuente:** [Seaborn – Titanic Dataset](https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv)
 
-* [CSV fuente del proyecto](./titanic.csv)
+* Dataset: (https://github.com/tobiasmottabittencourt/CursoHerramientasBasicas999201625-LenceMotta-BautistaTobias/blob/main/Data/Raw/titanic.csv)
 * Notebook: (https://github.com/tobiasmottabittencourt/CursoHerramientasBasicas999201625-LenceMotta-BautistaTobias/blob/main/Notebooks/TITANIC_TP.ipynb)
 * Power BI: (https://github.com/tobiasmottabittencourt/CursoHerramientasBasicas999201625-LenceMotta-BautistaTobias/blob/main/Dashboard/Graficos%20y%20KPI%20Titanic.pbix)
 
@@ -27,6 +27,7 @@ Se utilizó el dataset **Titanic**, compuesto por información demográfica, soc
 4. **Control de duplicados:** identificación y eliminación de registros duplicados.
 5. **EDA:** análisis de supervivencia por clase, grupos etarios y combinación entre condición de viaje y clase.
 6. **Visualización:** utilización de Matplotlib, Seaborn y Plotly para comunicar los principales hallazgos. La documentación oficial de Seaborn respalda el uso de visualizaciones categóricas para analizar este tipo de variables. [Seaborn – Categorical Data](https://seaborn.pydata.org/tutorial/categorical.html)
+7. **Dashboard:** construcción de visualizaciones para responder las preguntas planteadas e incorporación de KPIs y panel de filtros
 
 ## Conclusiones
 
