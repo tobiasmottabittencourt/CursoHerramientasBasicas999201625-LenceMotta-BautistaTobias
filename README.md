@@ -1,7 +1,9 @@
 # Titanic — Análisis Exploratorio de Datos
 
 **Autores:** Bautista Lence y Tobías Motta
+
 **Curso:** Herramientas Básicas para el Análisis de Datos
+
 **Cohorte:** 999201625
 
 ## Objetivo
